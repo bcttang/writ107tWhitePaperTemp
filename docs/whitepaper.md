@@ -14,7 +14,7 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
 
-## 1. Executive Summary {#executive}
+## 1. Kilgore Trout {#KilgoreTrout}
 :::note[
 Title: Kilgore Trout, 1907–1981
 Text: We are healthy only to the extent that our ideas are humane.
