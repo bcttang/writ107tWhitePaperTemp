@@ -15,9 +15,8 @@ description: "A white paper urging local government to prepare Isla Vista for a 
 </div>
 
 ## 1. Kilgore Trout {#KilgoreTrout}
-:::note[
-Title: Kilgore Trout, 1907–1981
-Text: We are healthy only to the extent that our ideas are humane.
+:::note[Kilgore Trout, 1907–1981]
+We are healthy only to the extent that our ideas are humane.
 ]:::
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
 as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
