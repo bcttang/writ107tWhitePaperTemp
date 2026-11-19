@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 ---
 id: zombie
 title: Zombie White Paper
@@ -109,6 +112,27 @@ The survey was conducted using the ZAS (Zombie Apocalypse Survey), a widely-used
 [2] P. Munz, I. Hudea, J. Imad, and R. J. Smith?, "When zombies attack!: Mathematical modelling of an outbreak of zombie infection," in *Infectious Disease Modelling Research Progress*, J. M. Tchuenche and C. Chiyaka, Eds. Hauppauge, NY, USA: Nova Science, 2009, pp. 133–150.
 
 </div>
+
+<Tabs>
+<TabItem value="q1" label="Question 1" default>
+<iframe
+title="Your first chart's title"
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/1495F/"
+height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+<TabItem value="q2" label="Question 2">
+<iframe
+title="Your second chart's title"
+aria-label="Bar chart"
+src="https://datawrapper.dwcdn.net/abc12/"
+height="400"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+</TabItem>
+</Tabs>
 
 [^ivcsd]: Isla Vista is an unincorporated community, so it has no city council. The Community Services District's elected Board of Directors is the closest thing it has to one.
 
