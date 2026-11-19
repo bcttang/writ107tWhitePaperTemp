@@ -14,6 +14,13 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
 
+<iframe
+title="I would shoot my fellow students in the leg."
+aria-label="Grouped column chart"
+src="https://datawrapper.dwcdn.net/1495F/" height="476"
+style={{ width: '100%', border: 'none' }}
+></iframe>
+
 ## 1. Kilgore Trout {#KilgoreTrout}
 :::note[Kilgore Trout, 1907–1981]
 We are healthy only to the extent that our ideas are humane.
